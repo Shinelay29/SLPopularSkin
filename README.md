@@ -1,2 +1,0 @@
-# SLPopularSkin
-slpopularskin
